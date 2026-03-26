@@ -47,7 +47,7 @@ module.exports = {
 
       // TODO 2: Configurer les remotes (vide pour l'instant)
       // remotes: {},
-
+      remotes: {},
       // TODO 3: Configurer les dependances partagees
       // shared: {
       //   react: { singleton: true, requiredVersion: '^18.2.0' },
